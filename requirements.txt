@@ -1,0 +1,9 @@
+# ==============================================================================
+# Prodigy InfoTech Cybersecurity Internship - Task-01: Caesar Cipher
+# Requirements File
+# ==============================================================================
+# Note: The core Caesar Cipher tool runs completely using the Python Standard Library.
+# No third-party libraries are required to run the core application.
+# The dependencies below are optional and used for running advanced unit tests.
+
+pytest>=7.0.0
